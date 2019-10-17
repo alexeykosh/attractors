@@ -1,3 +1,3 @@
 # attractors
 
-![](bedhead.gif)
+ <center><img src="bedhead.gif" ...></center>
